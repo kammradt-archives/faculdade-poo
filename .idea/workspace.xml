@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="faa844ab-16be-4b0c-bd4c-71d86cb3ce59" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/aula13_02_2019/Bichinho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula13_02_2019/Bola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula13_02_2019/BombaDeCombustivel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula13_02_2019/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula13_02_2019/Quadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula13_02_2019/Televisor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/.huskyrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/.prettierignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/.yo-rc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/docker/.dockerignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/docker/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/docker/app.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/docker/central-server-config/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/docker/central-server-config/docker-config/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/docker/central-server-config/localhost-config/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/docker/entrypoint.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/docker/jhipster-registry.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/docker/postgresql.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/docker/sonar.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/ApplicationWebXml.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/JhipsterAppTestApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/aop/logging/LoggingAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/config/ApplicationProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/config/AsyncConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/config/CacheConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/config/CloudDatabaseConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/config/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/config/DatabaseConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/config/DateTimeFormatConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/config/DefaultProfileUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/config/JacksonConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/config/LiquibaseConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/config/LocaleConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/config/LoggingAspectConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/config/LoggingConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/config/SecurityConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/config/WebConfigurer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/config/audit/AuditEventConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/config/audit/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/config/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/domain/AbstractAuditingEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/domain/Authority.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/domain/PersistentAuditEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/domain/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/domain/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/repository/AuthorityRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/repository/CustomAuditEventRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/repository/PersistenceAuditEventRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/repository/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/security/AuthoritiesConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/security/DomainUserDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/security/SecurityUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/security/SpringSecurityAuditorAware.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/security/UserNotActivatedException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/security/jwt/JWTConfigurer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/security/jwt/JWTFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/security/jwt/TokenProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/security/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/service/AuditEventService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/service/MailService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/service/dto/PasswordChangeDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/service/dto/UserDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/service/dto/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/service/mapper/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/service/mapper/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/service/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/service/util/RandomUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/web/rest/AccountResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/web/rest/AuditResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/web/rest/LogsResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/web/rest/UserJWTController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/web/rest/UserResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/web/rest/errors/BadRequestAlertException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/web/rest/errors/CustomParameterizedException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/web/rest/errors/EmailAlreadyUsedException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/web/rest/errors/EmailNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/web/rest/errors/ErrorConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/web/rest/errors/ExceptionTranslator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/web/rest/errors/FieldErrorVM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/web/rest/errors/InternalServerErrorException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/web/rest/errors/InvalidPasswordException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/web/rest/errors/LoginAlreadyUsedException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/web/rest/errors/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/web/rest/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/web/rest/util/HeaderUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/web/rest/util/PaginationUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/web/rest/vm/KeyAndPasswordVM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/web/rest/vm/LoggerVM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/web/rest/vm/LoginVM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/web/rest/vm/ManagedUserVM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/java/com/mycompany/myapp/web/rest/vm/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/jib/entrypoint.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/resources/.h2.server.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/resources/banner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/resources/config/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/resources/config/application-prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/resources/config/application-tls.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/resources/config/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/resources/config/bootstrap-prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/resources/config/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/resources/config/liquibase/authorities.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/resources/config/liquibase/changelog/00000000000000_initial_schema.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/resources/config/liquibase/master.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/resources/config/liquibase/users.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/resources/config/liquibase/users_authorities.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/resources/config/tls/keystore.p12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/resources/i18n/messages.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/resources/i18n/messages_en.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/resources/i18n/messages_pt_br.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/resources/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/resources/templates/error.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/resources/templates/mail/activationEmail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/resources/templates/mail/creationEmail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/resources/templates/mail/passwordResetEmail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/_bootstrap-variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/app.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/config/axios-interceptor.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/config/constants.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/config/devtools.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/config/error-middleware.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/config/icon-loader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/config/logger-middleware.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/config/notification-middleware.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/config/store.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/config/translation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/entities/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/modules/account/activate/activate.reducer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/modules/account/activate/activate.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/modules/account/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/modules/account/password-reset/finish/password-reset-finish.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/modules/account/password-reset/init/password-reset-init.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/modules/account/password-reset/password-reset.reducer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/modules/account/password/password.reducer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/modules/account/password/password.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/modules/account/register/register.reducer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/modules/account/register/register.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/modules/account/settings/settings.reducer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/modules/account/settings/settings.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/modules/administration/administration.reducer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/modules/administration/audits/audits.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/modules/administration/configuration/configuration.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/modules/administration/docs/docs.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/modules/administration/health/health-modal.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/modules/administration/health/health.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/modules/administration/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/modules/administration/logs/logs.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/modules/administration/metrics/metrics.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/modules/administration/user-management/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/modules/administration/user-management/user-management-delete-dialog.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/modules/administration/user-management/user-management-detail.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/modules/administration/user-management/user-management-update.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/modules/administration/user-management/user-management.reducer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/modules/administration/user-management/user-management.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/modules/home/home.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/modules/home/home.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/modules/login/login-modal.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/modules/login/login.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/modules/login/logout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/routes.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/shared/auth/private-route.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/shared/error/error-boundary-route.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/shared/error/error-boundary.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/shared/layout/footer/footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/shared/layout/footer/footer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/shared/layout/header/header-components.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/shared/layout/header/header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/shared/layout/header/header.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/shared/layout/header/menus/account.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/shared/layout/header/menus/admin.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/shared/layout/header/menus/entities.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/shared/layout/header/menus/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/shared/layout/header/menus/locale.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/shared/layout/password/password-strength-bar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/shared/layout/password/password-strength-bar.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/shared/model/user.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/shared/reducers/action-type.util.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/shared/reducers/application-profile.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/shared/reducers/authentication.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/shared/reducers/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/shared/reducers/locale.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/shared/util/date-utils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/shared/util/entity-utils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/shared/util/pagination.constants.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/shared/util/url-utils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/app/typings.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/i18n/en/activate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/i18n/en/audits.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/i18n/en/configuration.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/i18n/en/error.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/i18n/en/global.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/i18n/en/health.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/i18n/en/home.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/i18n/en/login.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/i18n/en/logs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/i18n/en/metrics.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/i18n/en/password.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/i18n/en/register.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/i18n/en/reset.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/i18n/en/sessions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/i18n/en/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/i18n/en/user-management.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/i18n/pt-br/activate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/i18n/pt-br/audits.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/i18n/pt-br/configuration.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/i18n/pt-br/error.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/i18n/pt-br/global.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/i18n/pt-br/health.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/i18n/pt-br/home.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/i18n/pt-br/login.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/i18n/pt-br/logs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/i18n/pt-br/metrics.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/i18n/pt-br/password.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/i18n/pt-br/register.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/i18n/pt-br/reset.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/i18n/pt-br/sessions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/i18n/pt-br/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/i18n/pt-br/user-management.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/manifest.webapp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/static/css/loading.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/static/images/jhipster_family_member_0.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/static/images/jhipster_family_member_0_head-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/static/images/jhipster_family_member_0_head-256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/static/images/jhipster_family_member_0_head-384.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/static/images/jhipster_family_member_0_head-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/static/images/jhipster_family_member_1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/static/images/jhipster_family_member_1_head-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/static/images/jhipster_family_member_1_head-256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/static/images/jhipster_family_member_1_head-384.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/static/images/jhipster_family_member_1_head-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/static/images/jhipster_family_member_2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/static/images/jhipster_family_member_2_head-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/static/images/jhipster_family_member_2_head-256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/static/images/jhipster_family_member_2_head-384.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/static/images/jhipster_family_member_2_head-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/static/images/jhipster_family_member_3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/static/images/jhipster_family_member_3_head-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/static/images/jhipster_family_member_3_head-256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/static/images/jhipster_family_member_3_head-384.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/static/images/jhipster_family_member_3_head-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/static/images/logo-jhipster.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/swagger-ui/dist/images/throbber.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/main/webapp/swagger-ui/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/java/com/mycompany/myapp/config/WebConfigurerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/java/com/mycompany/myapp/config/WebConfigurerTestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/java/com/mycompany/myapp/config/timezone/HibernateTimeZoneTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/java/com/mycompany/myapp/repository/CustomAuditEventRepositoryIntTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/java/com/mycompany/myapp/repository/timezone/DateTimeWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/java/com/mycompany/myapp/repository/timezone/DateTimeWrapperRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/java/com/mycompany/myapp/security/DomainUserDetailsServiceIntTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/java/com/mycompany/myapp/security/SecurityUtilsUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/java/com/mycompany/myapp/security/jwt/JWTFilterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/java/com/mycompany/myapp/security/jwt/TokenProviderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/java/com/mycompany/myapp/service/MailServiceIntTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/java/com/mycompany/myapp/service/UserServiceIntTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/java/com/mycompany/myapp/service/mapper/UserMapperTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/java/com/mycompany/myapp/web/rest/AccountResourceIntTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/java/com/mycompany/myapp/web/rest/AuditResourceIntTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/java/com/mycompany/myapp/web/rest/LogsResourceIntTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/java/com/mycompany/myapp/web/rest/TestUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/java/com/mycompany/myapp/web/rest/UserJWTControllerIntTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/java/com/mycompany/myapp/web/rest/UserResourceIntTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/java/com/mycompany/myapp/web/rest/errors/ExceptionTranslatorIntTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/java/com/mycompany/myapp/web/rest/errors/ExceptionTranslatorTestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/java/com/mycompany/myapp/web/rest/util/PaginationUtilUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/javascript/jest.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/javascript/spec/app/config/axios-interceptor.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/javascript/spec/app/config/notification-middleware.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/javascript/spec/app/modules/account/activate/activate.reducer.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/javascript/spec/app/modules/account/password/password.reducer.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/javascript/spec/app/modules/account/register/register.reducer.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/javascript/spec/app/modules/account/settings/settings.reducer.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/javascript/spec/app/modules/administration/administration.reducer.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/javascript/spec/app/modules/administration/user-management/user-management.reducer.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/javascript/spec/app/shared/auth/private-route.spec.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/javascript/spec/app/shared/error/error-boundary-route.spec.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/javascript/spec/app/shared/error/error-boundary.spec.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/javascript/spec/app/shared/layout/header/header.spec.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/javascript/spec/app/shared/layout/header/menus/account.spec.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/javascript/spec/app/shared/reducers/application-profile.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/javascript/spec/app/shared/reducers/authentication.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/javascript/spec/app/shared/reducers/locale.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/javascript/spec/app/shared/util/entity-utils.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/javascript/spec/app/utils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/javascript/spec/enzyme-setup.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/javascript/spec/storage-mock.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/resources/config/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/resources/config/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/resources/i18n/messages_en.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/resources/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/src/test/resources/templates/mail/testEmail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/tsconfig.test.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/webpack/logo-jhipster.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/webpack/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/webpack/webpack.common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/webpack/webpack.dev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JhipsterApp/webpack/webpack.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twitter" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/aula13_02_2019/Televisor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="42" column="46" selection-start-line="42" selection-start-column="46" selection-end-line="42" selection-end-column="46" />
+              <folding>
+                <element signature="method#Televisor#0;class#Televisor#0" />
+                <element signature="method#setVolume#0;class#Televisor#0" />
+                <element signature="e#442#487#1" />
+                <element signature="e#493#589#1" />
+                <element signature="method#setCanal#0;class#Televisor#0" />
+                <element signature="e#824#866#1" />
+                <element signature="e#872#979#1" />
+                <element signature="n#!!block;n#aumentarVolume#0;n#Televisor#0" />
+                <element signature="n#!!block;n#aumentarVolume#1;n#Televisor#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/aula13_02_2019/BombaDeCombustivel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="884">
+              <caret line="64" column="134" selection-start-line="64" selection-start-column="134" selection-end-line="64" selection-end-column="134" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/aula26_01_200/Test.java" />
+        <option value="$PROJECT_DIR$/src/aula13_02_2019/Bola.java" />
+        <option value="$PROJECT_DIR$/src/aula13_02_2019/Quadrado.java" />
+        <option value="$PROJECT_DIR$/src/aula13_02_2019/Pessoa.java" />
+        <option value="$PROJECT_DIR$/src/aula13_02_2019/Bichinho.java" />
+        <option value="$PROJECT_DIR$/src/aula13_02_2019/BombaDeCombustivel.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/aula13_02_2019/Televisor.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="960" />
+    <option name="y" value="18" />
+    <option name="width" value="960" />
+    <option name="height" value="1062" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Poo-aulas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Poo-aulas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Poo-aulas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Poo-aulas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Poo-aulas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Poo-aulas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="aula13_02_2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550101476939" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Poo-aulas" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="faa844ab-16be-4b0c-bd4c-71d86cb3ce59" name="Default Changelist" comment="" />
+      <created>1549985015007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549985015007</updated>
+      <workItem from="1549985019705" duration="162000" />
+      <workItem from="1550054170110" duration="5570000" />
+      <workItem from="1550068777713" duration="2295000" />
+      <workItem from="1550099819662" duration="1659000" />
+      <workItem from="1550191474417" duration="203000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9889000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="18" width="1920" height="1062" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13897763" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32928064" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32928064" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Codota" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/aula26_01_200/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/aula13_02_2019/Bola.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+            <element signature="e#622#623#0" expanded="true" />
+            <element signature="e#657#658#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+            <element signature="e#736#737#0" expanded="true" />
+            <element signature="e#776#777#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula13_02_2019/Quadrado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+          <folding>
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula13_02_2019/Pessoa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="56" column="5" lean-forward="true" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula13_02_2019/Bichinho.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+          <folding>
+            <element signature="method#Bichinho#0;class#Bichinho#0" />
+            <element signature="method#getFome#0;class#Bichinho#0" />
+            <element signature="e#593#661#1" />
+            <element signature="e#687#749#1" />
+            <element signature="e#755#819#1" />
+            <element signature="method#setFome#0;class#Bichinho#0" />
+            <element signature="e#922#963#1" />
+            <element signature="e#969#1041#1" />
+            <element signature="method#getSaude#0;class#Bichinho#0" />
+            <element signature="e#1106#1174#1" />
+            <element signature="e#1200#1260#1" />
+            <element signature="e#1266#1329#1" />
+            <element signature="method#setSaude#0;class#Bichinho#0" />
+            <element signature="e#1435#1477#1" />
+            <element signature="e#1483#1555#1" />
+            <element signature="method#verificarHumor#0;class#Bichinho#0" />
+            <element signature="e#1797#1870#1" />
+            <element signature="e#1908#1964#1" />
+            <element signature="e#1970#2035#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula13_02_2019/BombaDeCombustivel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="64" column="134" selection-start-line="64" selection-start-column="134" selection-end-line="64" selection-end-column="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula13_02_2019/Televisor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="42" column="46" selection-start-line="42" selection-start-column="46" selection-end-line="42" selection-end-column="46" />
+          <folding>
+            <element signature="method#Televisor#0;class#Televisor#0" />
+            <element signature="method#setVolume#0;class#Televisor#0" />
+            <element signature="e#442#487#1" />
+            <element signature="e#493#589#1" />
+            <element signature="method#setCanal#0;class#Televisor#0" />
+            <element signature="e#824#866#1" />
+            <element signature="e#872#979#1" />
+            <element signature="n#!!block;n#aumentarVolume#0;n#Televisor#0" />
+            <element signature="n#!!block;n#aumentarVolume#1;n#Televisor#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
