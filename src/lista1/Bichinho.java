@@ -1,10 +1,11 @@
-package aula13_02_2019;
+package lista1;
 
 public class Bichinho {
-    private String nome;
-    private int fome;  // Min 0 (Morto) Max 10 (Satisfeito)
-    private int saude; // Min 0 (Morto) Max 10 (Suadável)
-    private int idade;
+    private
+        String nome;
+        int fome;  // Min 0 (Morto) Max 10 (Satisfeito)
+        int saude; // Min 0 (Morto) Max 10 (Suadável)
+        int idade;
 
 
 
