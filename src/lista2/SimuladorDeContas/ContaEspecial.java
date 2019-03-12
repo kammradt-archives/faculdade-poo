@@ -11,7 +11,8 @@ public class ContaEspecial extends  ContaCorrente{
 
     @Override
     public void creditar(Double valor){
-        if (this.saldo + valor > this.limite) {
+        if ((this.saldo + valor) > this.limite) {
+//        if ((super.getSaldo() + valor) > this.limite) {
             System.out.println("ERRO: Impossível creditar. O limite máximo atual é: " + this.limite);
         } else {
             this.saldo += valor;
