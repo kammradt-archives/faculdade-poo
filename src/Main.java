@@ -39,7 +39,7 @@ public class Main {
         Estagiario estagiario = new Estagiario (1,"Vini", "@gmail", 1000.0 ,100.0);
 
         // lista2 // Ex 3
-        Ingresso ingresso = new Ingresso(200.0);
+        // Abstract ingresso = new Ingresso(200.0);
         IngressoVip vip = new IngressoVip(200.0, 100.0);
         IngressoNormal normal = new IngressoNormal(200.0);
         CamaroteInferior ci = new CamaroteInferior(200.0, "Araquari");

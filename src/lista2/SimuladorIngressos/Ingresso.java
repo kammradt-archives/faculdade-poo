@@ -1,6 +1,6 @@
 package lista2.SimuladorIngressos;
 
-public class Ingresso {
+public abstract class Ingresso {
     protected Double valor;
 
     public Ingresso(Double valor) {
