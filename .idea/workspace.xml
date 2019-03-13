@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="faa844ab-16be-4b0c-bd4c-71d86cb3ce59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lista2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista3/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -12,18 +12,44 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileColors">
     <fileColor scope="Local Unit Tests" color="bbff7e" />
     <fileColor scope="Android Instrumented Tests" color="bbff7e" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lista2/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="454">
-                <caret line="32" column="733" lean-forward="true" selection-end-line="33" />
+              <first_editor>
+                <caret selection-end-column="8" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lista3/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="180">
+                <caret line="9" column="19" selection-end-line="23" selection-end-column="14" />
               </first_editor>
               <second_editor />
             </state>
@@ -45,7 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/aula13_02_2019/Televisor.java" />
         <option value="$PROJECT_DIR$/src/aula13_02_2019/Bola.java" />
         <option value="$PROJECT_DIR$/src/aula13_02_2019/Bichinho.java" />
         <option value="$PROJECT_DIR$/src/aula20_02_2019/ContaCorrent.java" />
@@ -96,6 +121,7 @@
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/lista1/README.md" />
         <option value="$PROJECT_DIR$/src/lista2/README.md" />
+        <option value="$PROJECT_DIR$/src/lista3/README.md" />
       </list>
     </option>
   </component>
@@ -133,6 +159,12 @@
             </path>
             <path>
               <item name="faculdade-poo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faculdade-poo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lista3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="faculdade-poo" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -144,7 +176,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552442711847" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552443505948" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
@@ -219,7 +251,7 @@
       <workItem from="1552397199739" duration="2859000" />
       <workItem from="1552433265092" duration="94000" />
       <workItem from="1552433408176" duration="5629000" />
-      <workItem from="1552440049797" duration="2456000" />
+      <workItem from="1552440049797" duration="3456000" />
     </task>
     <task id="LOCAL-00001" summary="Lista 2">
       <created>1550715504433</created>
@@ -263,11 +295,18 @@
       <option name="project" value="LOCAL" />
       <updated>1552439999266</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="NEW: README part 2 done.">
+      <created>1552442728382</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1552442728382</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39342000" />
+    <option name="totallyTimeSpent" value="40342000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -282,7 +321,7 @@
     <frame x="1920" y="-1" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4994698" weight="0.21985058" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4994698" visible="true" weight="0.21985058" />
       <window_info id="Structure" order="1" sideWeight="0.50053024" side_tool="true" weight="0.19316968" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -310,9 +349,9 @@
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Codota" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Database" order="9" weight="0.32977587" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4994698" visible="true" weight="0.50273824" />
@@ -399,16 +438,10 @@
     <MESSAGE value="UPDATE: Boas práticas de herança." />
     <MESSAGE value="NEW: Classes from exercise three finished." />
     <MESSAGE value="UPDATE: Main.java done." />
-    <option name="LAST_COMMIT_MESSAGE" value="UPDATE: Main.java done." />
+    <MESSAGE value="NEW: README part 2 done." />
+    <option name="LAST_COMMIT_MESSAGE" value="NEW: README part 2 done." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lista1/Bichinho.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lista2/SimuladorDeContas/ContaInvestimento.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -824,8 +857,18 @@
     <entry file="file://$PROJECT_DIR$/src/lista2/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="454">
-            <caret line="32" column="733" lean-forward="true" selection-end-line="33" />
+          <first_editor>
+            <caret selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lista3/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="9" column="19" selection-end-line="23" selection-end-column="14" />
           </first_editor>
           <second_editor />
         </state>
