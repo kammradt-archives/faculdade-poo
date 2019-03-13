@@ -25,7 +25,7 @@ public abstract class FuncionarioAbs {
         this.salario = salario;
     }
 
-    abstract void aumentaSalario();
+    abstract public void aumentaSalario();
 
     @Override
     public String toString() {

@@ -16,6 +16,8 @@ import lista2.SimuladorPessoas.Miseravel;
 import lista2.SimuladorPessoas.PessoaListaDois;
 import lista2.SimuladorPessoas.Pobre;
 import lista2.SimuladorPessoas.Rica;
+import lista3.ClassesAbstratas.Gerente;
+import lista3.ClassesAbstratas.Programador;
 import lista3.newSimuladorDeContas.Cliente;
 
 public class Main {
@@ -100,6 +102,12 @@ public class Main {
         System.out.println(conta4);
         System.out.println(conta5);
         System.out.println(conta6);
+
+        // Lista 3 // Ex 2
+        Gerente gerente = new Gerente("Vini", 1000.0);
+        Programador programador = new Programador("Vini", 2000.0);
+        System.out.println(gerente + "\n" + programador);
+
 
 
 

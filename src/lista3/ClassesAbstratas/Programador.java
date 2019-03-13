@@ -7,7 +7,7 @@ public class Programador extends FuncionarioAbs{
     }
 
     @Override
-    void aumentaSalario() {
+    public void aumentaSalario() {
         setSalario(getSalario() * 1.2);
     }
 }

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="faa844ab-16be-4b0c-bd4c-71d86cb3ce59" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/lista3/ClassesAbstratas/FuncionarioAbs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lista3/ClassesAbstratas/FuncionarioAbs.java" afterDir="false" />
-    </list>
+    <list default="true" id="faa844ab-16be-4b0c-bd4c-71d86cb3ce59" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +15,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="509">
@@ -29,13 +27,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lista3/ClassesAbstratas/FuncionarioAbs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="32" column="52" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
+            <state relative-caret-position="380">
+              <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
               <folding>
                 <element signature="method#FuncionarioAbs#0;class#FuncionarioAbs#0" />
+                <element signature="method#toString#0;class#FuncionarioAbs#0" />
               </folding>
             </state>
           </provider>
@@ -101,6 +100,8 @@
         <option value="$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaCorrente.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/lista3/ClassesAbstratas/FuncionarioAbs.java" />
+        <option value="$PROJECT_DIR$/src/lista3/ClassesAbstratas/Gerente.java" />
+        <option value="$PROJECT_DIR$/src/lista3/ClassesAbstratas/Programador.java" />
       </list>
     </option>
   </component>
@@ -134,12 +135,6 @@
               <item name="faculdade-poo" type="b2602c69:ProjectViewProjectNode" />
               <item name="faculdade-poo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lista2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="faculdade-poo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="faculdade-poo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lista3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -147,7 +142,7 @@
               <item name="faculdade-poo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lista3" type="462c0819:PsiDirectoryNode" />
-              <item name="newSimuladorDeContas" type="462c0819:PsiDirectoryNode" />
+              <item name="ClassesAbstratas" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="faculdade-poo" type="b2602c69:ProjectViewProjectNode" />
@@ -163,7 +158,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552437390616" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552437739086" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
@@ -237,7 +232,7 @@
       <workItem from="1551271555479" duration="129000" />
       <workItem from="1552397199739" duration="2859000" />
       <workItem from="1552433265092" duration="94000" />
-      <workItem from="1552433408176" duration="3690000" />
+      <workItem from="1552433408176" duration="3931000" />
     </task>
     <task id="LOCAL-00001" summary="Lista 2">
       <created>1550715504433</created>
@@ -264,7 +259,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34947000" />
+    <option name="totallyTimeSpent" value="35188000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -277,7 +272,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-1" width="1920" height="1080" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4994698" visible="true" weight="0.24226254" />
       <window_info id="Structure" order="1" sideWeight="0.50053024" side_tool="true" weight="0.19316968" />
@@ -779,16 +773,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="97" column="35" lean-forward="true" selection-start-line="97" selection-start-column="35" selection-end-line="97" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaCorrente.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -800,12 +784,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/lista3/ClassesAbstratas/Gerente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="5" lean-forward="true" selection-end-line="13" />
+          <folding>
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lista3/ClassesAbstratas/Programador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/lista3/ClassesAbstratas/FuncionarioAbs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="32" column="52" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
+        <state relative-caret-position="380">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
           <folding>
             <element signature="method#FuncionarioAbs#0;class#FuncionarioAbs#0" />
+            <element signature="method#toString#0;class#FuncionarioAbs#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="97" column="35" lean-forward="true" selection-start-line="97" selection-start-column="35" selection-end-line="97" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

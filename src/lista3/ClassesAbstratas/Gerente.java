@@ -7,7 +7,7 @@ public class Gerente extends FuncionarioAbs{
     }
 
     @Override
-    void aumentaSalario() {
+    public void aumentaSalario() {
         setSalario(getSalario() * 1.1);
     }
 }
