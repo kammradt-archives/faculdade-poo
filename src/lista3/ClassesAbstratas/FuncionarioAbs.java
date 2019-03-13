@@ -27,6 +27,12 @@ public abstract class FuncionarioAbs {
 
     abstract void aumentaSalario();
 
+    @Override
+    public String toString() {
+        return "O funcinário se chama: " + this.nome + "\n" +
+                "e tem salário de: " + this.salario;
 
+
+    }
 }
 
