@@ -31,6 +31,7 @@ matrícula e o nome de cada um deles.
 
 5. Para o diagrama de classes abaixo:
 ![Diagrama 2](https://lh3.googleusercontent.com/LNQrcc8Xm5Gg9yNqDFzYww89392JeNN_OrK_cvkRDzOyp-oSQKwUYzOaVtU01zpi54RrO7r7_UpSxt9H2693nlnj82UNzG1922nGFp2wU6ZkFv-l5IjoeVgC8z-TMOZMDWbRG22-B2Yt1w1qXfL1IVM1kDSXzWYz8kWGWhs8-faWd97VLG_orpDioXriDG0XWRa-G7iNGVbv19a3VBzf8-QdbNpchrai5Mvn9ge45wE6oJWoNbaheRr63Mxb6RxXj2kQnMnh_y0CDoKlqLQBgmRNdRL37hNd800Y3MVCiPBjVtv1dX_edBnemZmmc0srb4t2kr7jpzd77UQ6pjzbnSSYWARs4B0lSI0JBPIFGB53dAO03eJI6WHZyZLKoEchyGw1A_LiPD5KTKC0VX6w16X3fNMCSi42PumajYwomxVP2DiT8YLnvzymTEx8jlptnIbDvIfWPRfZ6XOZKi-TMNvXxgVjv6SVV8MXHLEF3FZeDg3GaBQiA4BF19cMtUz1iDw2rw6_Dw7St3Nn26PwPydl6L40tBaTG3Hc6Nhl3-Y7Vq3FoUcPSho619ERAwCmhXanOwJfVRoATyBMTAEWaAkQtTU71bym1CS3QMvqbAEh7XysgfKcNq8HiA0xoPR9I8lIJRzpF-ZcyZQKMgbl6mNrVU2hnsw=w817-h393-no)
+
 a) crie as classes e métodos conforme o diagrama;
 b) instancie um animal do tipo cachorro e faça-o latir. Instancie um gato e faça-o miar. Faça os dois animais
 caminharem
