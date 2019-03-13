@@ -18,6 +18,10 @@ import lista2.SimuladorPessoas.Pobre;
 import lista2.SimuladorPessoas.Rica;
 import lista3.ClassesAbstratas.Gerente;
 import lista3.ClassesAbstratas.Programador;
+import lista3.Operacoes.Divisao;
+import lista3.Operacoes.Multiplicacao;
+import lista3.Operacoes.Soma;
+import lista3.Operacoes.Subtracao;
 import lista3.newSimuladorDeContas.Cliente;
 
 public class Main {
@@ -107,6 +111,16 @@ public class Main {
         Gerente gerente = new Gerente("Vini", 1000.0);
         Programador programador = new Programador("Vini", 2000.0);
         System.out.println(gerente + "\n" + programador);
+
+        // Lista 3 // Ex 3
+        Soma soma = new Soma();
+        System.out.println(soma.calcula(10.0, 2.0));
+        Subtracao subtracao = new Subtracao();
+        System.out.println(subtracao.calcula(10.0, 2.0));
+        Multiplicacao multiplicacao = new Multiplicacao();
+        System.out.println(multiplicacao.calcula(10.0, 2.0));
+        Divisao divisao = new Divisao();
+        System.out.println(divisao.calcula(10.0, 2.0));
 
 
 
