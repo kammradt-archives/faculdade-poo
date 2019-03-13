@@ -34,4 +34,12 @@ public class ContaCorrente {
 
     }
 
+    @Override
+    public String toString() {
+        return  "Essa conta pertence à: " + this.cliente.getNome() + "." +
+                "Tem saldo de: " + this.saldo + "." +
+                "E seu número é: " + this.numero;
+
+
+    }
 }

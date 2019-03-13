@@ -78,21 +78,28 @@ public class Main {
 
         //Lista 3 // Ex 1
         lista3.newSimuladorDeContas.Cliente cliente1 = new Cliente("Vini", "011.411.776.22");
-        lista3.newSimuladorDeContas.ContaCorrente conta1 = new lista3.newSimuladorDeContas.ContaCorrente(0, 100.0, cliente1);
+        lista3.newSimuladorDeContas.ContaCorrente conta1 = new lista3.newSimuladorDeContas.ContaCorrente(1, 100.0, cliente1);
 
-        lista3.newSimuladorDeContas.Cliente cliente2 = new Cliente("Vini", "011.411.776.22");
-        lista3.newSimuladorDeContas.ContaCorrente conta2 = new lista3.newSimuladorDeContas.ContaCorrente(0, 100.0, cliente2);
-        lista3.newSimuladorDeContas.ContaCorrente conta3 = new lista3.newSimuladorDeContas.ContaPoupanca(0, 100.0, cliente2, 200.0);
+        lista3.newSimuladorDeContas.Cliente cliente2 = new Cliente("Fernando", "011.411.776.22");
+        lista3.newSimuladorDeContas.ContaCorrente conta2 = new lista3.newSimuladorDeContas.ContaCorrente(2, 200., cliente2);
+        lista3.newSimuladorDeContas.ContaCorrente conta3 = new lista3.newSimuladorDeContas.ContaPoupanca(3, 300., cliente2, 200.0);
 
-        lista3.newSimuladorDeContas.Cliente cliente3 = new Cliente("Vini", "011.411.776.22");
-        lista3.newSimuladorDeContas.ContaCorrente conta4 = new lista3.newSimuladorDeContas.ContaEspecial(0, 100.0, cliente3, 200.0);
-        lista3.newSimuladorDeContas.ContaCorrente conta5 = new lista3.newSimuladorDeContas.ContaInvestimento(0, 100.0, cliente3, 1,5);
+        lista3.newSimuladorDeContas.Cliente cliente3 = new Cliente("José", "011.411.776.22");
+        lista3.newSimuladorDeContas.ContaCorrente conta4 = new lista3.newSimuladorDeContas.ContaEspecial(4, 150., cliente3, 200.0);
+        lista3.newSimuladorDeContas.ContaCorrente conta5 = new lista3.newSimuladorDeContas.ContaInvestimento(5, 75., cliente3, 1,5);
 
-        lista3.newSimuladorDeContas.Cliente cliente4 = new Cliente("Vini", "011.411.776.22");
-        lista3.newSimuladorDeContas.ContaCorrente conta6 = new lista3.newSimuladorDeContas.ContaInvestimento(0, 100.0, cliente4, 1,5);
+        lista3.newSimuladorDeContas.Cliente cliente4 = new Cliente("Maria", "011.411.776.22");
+        lista3.newSimuladorDeContas.ContaCorrente conta6 = new lista3.newSimuladorDeContas.ContaInvestimento(6, 1000.0, cliente4, 1,5);
 
-        lista3.newSimuladorDeContas.Cliente cliente5 = new Cliente("Vini", "011.411.776.22");
+        lista3.newSimuladorDeContas.Cliente cliente5 = new Cliente("Henrique", "011.411.776.22");
         // Sem conta
+
+        System.out.println(conta1);
+        System.out.println(conta2);
+        System.out.println(conta3);
+        System.out.println(conta4);
+        System.out.println(conta5);
+        System.out.println(conta6);
 
 
 

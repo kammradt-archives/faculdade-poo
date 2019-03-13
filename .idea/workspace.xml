@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="faa844ab-16be-4b0c-bd4c-71d86cb3ce59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lista3/ClassesAbstratas/FuncionarioAbs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaCorrente.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="96" selection-start-line="96" selection-end-line="96" />
+            <state relative-caret-position="229">
+              <caret line="81" column="33" selection-start-line="81" selection-start-column="33" selection-end-line="81" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -30,11 +30,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lista3/ClassesAbstratas/FuncionarioAbs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            <state relative-caret-position="140">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="method#FuncionarioAbs#0;class#FuncionarioAbs#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaCorrente.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="38" column="8" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+              <folding>
+                <element signature="method#debitar#0;class#ContaCorrente#0" />
+                <element signature="method#creditar#0;class#ContaCorrente#0" />
+                <element signature="e#1018#1019#0" expanded="true" />
+                <element signature="e#1057#1058#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -94,11 +112,11 @@
         <option value="$PROJECT_DIR$/src/lista3/SimuladorDeContas/ContaCorrente.java" />
         <option value="$PROJECT_DIR$/src/lista3/newSimuladorDeContas/Cliente.java" />
         <option value="$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaInvestimento.java" />
-        <option value="$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaCorrente.java" />
         <option value="$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaPoupanca.java" />
         <option value="$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaEspecial.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/lista3/ClassesAbstratas/FuncionarioAbs.java" />
+        <option value="$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaCorrente.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
@@ -142,6 +160,13 @@
             </path>
             <path>
               <item name="faculdade-poo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faculdade-poo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lista3" type="462c0819:PsiDirectoryNode" />
+              <item name="newSimuladorDeContas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="faculdade-poo" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -154,7 +179,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552436702791" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552437095442" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
@@ -228,7 +253,7 @@
       <workItem from="1551271555479" duration="129000" />
       <workItem from="1552397199739" duration="2859000" />
       <workItem from="1552433265092" duration="94000" />
-      <workItem from="1552433408176" duration="3002000" />
+      <workItem from="1552433408176" duration="3287000" />
     </task>
     <task id="LOCAL-00001" summary="Lista 2">
       <created>1550715504433</created>
@@ -255,7 +280,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34259000" />
+    <option name="totallyTimeSpent" value="34544000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -763,19 +788,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaCorrente.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="69" selection-start-line="7" selection-start-column="69" selection-end-line="7" selection-end-column="69" />
-          <folding>
-            <element signature="method#debitar#0;class#ContaCorrente#0" />
-            <element signature="e#524#647#1" />
-            <element signature="e#653#794#1" />
-            <element signature="method#creditar#0;class#ContaCorrente#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lista3/ClassesAbstratas/Funcionario.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -783,20 +795,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaCorrente.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="96" selection-start-line="96" selection-end-line="96" />
+        <state relative-caret-position="460">
+          <caret line="38" column="8" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="method#debitar#0;class#ContaCorrente#0" />
+            <element signature="method#creditar#0;class#ContaCorrente#0" />
+            <element signature="e#1018#1019#0" expanded="true" />
+            <element signature="e#1057#1058#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lista3/ClassesAbstratas/FuncionarioAbs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        <state relative-caret-position="140">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="method#FuncionarioAbs#0;class#FuncionarioAbs#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="81" column="33" selection-start-line="81" selection-start-column="33" selection-end-line="81" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
