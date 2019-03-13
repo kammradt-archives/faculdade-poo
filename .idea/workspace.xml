@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="faa844ab-16be-4b0c-bd4c-71d86cb3ce59" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/lista2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/lista2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lista3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/lista3/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,24 +32,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lista2/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="495">
-                <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+              <first_editor relative-caret-position="414">
+                <caret line="40" column="93" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="93" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lista3/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="460">
-                <caret line="23" column="673" lean-forward="true" selection-end-line="23" selection-end-column="732" />
+                <caret line="23" column="731" selection-start-line="23" selection-start-column="731" selection-end-line="23" selection-end-column="731" />
               </first_editor>
               <second_editor />
             </state>
@@ -119,8 +120,8 @@
         <option value="$PROJECT_DIR$/src/lista3/Operacoes/Divisao.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/lista1/README.md" />
-        <option value="$PROJECT_DIR$/src/lista3/README.md" />
         <option value="$PROJECT_DIR$/src/lista2/README.md" />
+        <option value="$PROJECT_DIR$/src/lista3/README.md" />
       </list>
     </option>
   </component>
@@ -175,7 +176,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552443555417" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552443959889" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
@@ -250,7 +251,7 @@
       <workItem from="1552397199739" duration="2859000" />
       <workItem from="1552433265092" duration="94000" />
       <workItem from="1552433408176" duration="5629000" />
-      <workItem from="1552440049797" duration="3569000" />
+      <workItem from="1552440049797" duration="4180000" />
     </task>
     <task id="LOCAL-00001" summary="Lista 2">
       <created>1550715504433</created>
@@ -305,7 +306,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40455000" />
+    <option name="totallyTimeSpent" value="41066000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -320,7 +321,7 @@
     <frame x="1920" y="-1" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4994698" visible="true" weight="0.21985058" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4994698" visible="true" weight="0.21985058" />
       <window_info id="Structure" order="1" sideWeight="0.50053024" side_tool="true" weight="0.19316968" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -334,7 +335,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32979852" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32979852" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32979852" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3923648" />
@@ -853,21 +854,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista3/README.md">
+    <entry file="file://$PROJECT_DIR$/src/lista2/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="460">
-            <caret line="23" column="673" lean-forward="true" selection-end-line="23" selection-end-column="732" />
+          <first_editor relative-caret-position="414">
+            <caret line="40" column="93" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="93" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista2/README.md">
+    <entry file="file://$PROJECT_DIR$/src/lista3/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="495">
-            <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <first_editor relative-caret-position="460">
+            <caret line="23" column="731" selection-start-line="23" selection-start-column="731" selection-end-line="23" selection-end-column="731" />
           </first_editor>
           <second_editor />
         </state>
