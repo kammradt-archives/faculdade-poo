@@ -16,6 +16,7 @@ import lista2.SimuladorPessoas.Miseravel;
 import lista2.SimuladorPessoas.PessoaListaDois;
 import lista2.SimuladorPessoas.Pobre;
 import lista2.SimuladorPessoas.Rica;
+import lista3.newSimuladorDeContas.Cliente;
 
 public class Main {
 
@@ -74,5 +75,29 @@ public class Main {
         Pobre pobre = new Pobre("Vini", 19);
         pobre.trabalhar();
         Miseravel miseravel = new Miseravel("Vini", 19);
+
+        //Lista 3 // Ex 1
+        lista3.newSimuladorDeContas.Cliente cliente1 = new Cliente("Vini", "011.411.776.22");
+        lista3.newSimuladorDeContas.ContaCorrente conta1 = new lista3.newSimuladorDeContas.ContaCorrente(0, 100.0, cliente1);
+
+        lista3.newSimuladorDeContas.Cliente cliente2 = new Cliente("Vini", "011.411.776.22");
+        lista3.newSimuladorDeContas.ContaCorrente conta2 = new lista3.newSimuladorDeContas.ContaCorrente(0, 100.0, cliente2);
+        lista3.newSimuladorDeContas.ContaCorrente conta3 = new lista3.newSimuladorDeContas.ContaPoupanca(0, 100.0, cliente2, 200.0);
+
+        lista3.newSimuladorDeContas.Cliente cliente3 = new Cliente("Vini", "011.411.776.22");
+        lista3.newSimuladorDeContas.ContaCorrente conta4 = new lista3.newSimuladorDeContas.ContaEspecial(0, 100.0, cliente3, 200.0);
+        lista3.newSimuladorDeContas.ContaCorrente conta5 = new lista3.newSimuladorDeContas.ContaInvestimento(0, 100.0, cliente3, 1,5);
+
+        lista3.newSimuladorDeContas.Cliente cliente4 = new Cliente("Vini", "011.411.776.22");
+        lista3.newSimuladorDeContas.ContaCorrente conta6 = new lista3.newSimuladorDeContas.ContaInvestimento(0, 100.0, cliente4, 1,5);
+
+        lista3.newSimuladorDeContas.Cliente cliente5 = new Cliente("Vini", "011.411.776.22");
+        // Sem conta
+
+
+
+
+
+
     }
 }
