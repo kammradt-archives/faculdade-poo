@@ -4,7 +4,7 @@ public class ContaEspecial extends ContaCorrente {
 
     private Double limite;
 
-    public ContaEspecial(int numero, Double saldo, String cliente, Double limite) {
+    public ContaEspecial(int numero, Double saldo, Cliente cliente, Double limite) {
         super(numero, saldo, cliente);
         this.limite = limite;
     }

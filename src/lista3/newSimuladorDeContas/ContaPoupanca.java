@@ -3,7 +3,7 @@ package lista3.newSimuladorDeContas;
 public class ContaPoupanca extends ContaCorrente {
     private Double saldoMinino;
 
-    public ContaPoupanca(int numero, Double saldo, String cliente, Double saldoMinino) {
+    public ContaPoupanca(int numero, Double saldo, Cliente cliente, Double saldoMinino) {
         super(numero, saldo, cliente);
         this.saldoMinino = saldoMinino;
     }

@@ -3,9 +3,9 @@ package lista3.newSimuladorDeContas;
 public class ContaCorrente {
     private int numero;
     private Double saldo;
-    private String cliente;
+    private Cliente cliente;
 
-    public ContaCorrente(int numero, Double saldo, String cliente) {
+    public ContaCorrente(int numero, Double saldo, Cliente cliente) {
         this.numero = numero;
         this.saldo = saldo;
         this.cliente = cliente;

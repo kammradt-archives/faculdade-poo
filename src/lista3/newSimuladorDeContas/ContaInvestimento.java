@@ -8,7 +8,7 @@ public class ContaInvestimento extends ContaCorrente {
         private int diaInvestimento;
         private int periodo;
 
-    public ContaInvestimento(int numero, Double saldo, String cliente, int diaInvestimento, int periodo) {
+    public ContaInvestimento(int numero, Double saldo, Cliente cliente, int diaInvestimento, int periodo) {
         super(numero, saldo, cliente);
         this.diaInvestimento = diaInvestimento;
         this.periodo = periodo;

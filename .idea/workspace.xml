@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="faa844ab-16be-4b0c-bd4c-71d86cb3ce59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaCorrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaEspecial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaInvestimento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaPoupanca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista3/newSimuladorDeContas/Cliente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaCorrente.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,34 +32,27 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaInvestimento.java">
+        <entry file="file://$PROJECT_DIR$/src/lista3/newSimuladorDeContas/Cliente.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="19" column="22" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="22" />
+            <state relative-caret-position="280">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+              <folding>
+                <element signature="method#Cliente#0;class#Cliente#0" />
+              </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaEspecial.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaPoupanca.java">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaCorrente.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+            <state relative-caret-position="100">
+              <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
               <folding>
                 <element signature="method#ContaCorrente#0;class#ContaCorrente#0" />
                 <element signature="method#debitar#0;class#ContaCorrente#0" />
-                <element signature="e#478#601#1" />
-                <element signature="e#607#748#1" />
+                <element signature="e#524#647#1" />
+                <element signature="e#653#794#1" />
                 <element signature="method#creditar#0;class#ContaCorrente#0" />
               </folding>
             </state>
@@ -122,7 +113,10 @@
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/lista3/SimuladorDeContas/ContaCorrente.java" />
+        <option value="$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaPoupanca.java" />
+        <option value="$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaEspecial.java" />
         <option value="$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaInvestimento.java" />
+        <option value="$PROJECT_DIR$/src/lista3/newSimuladorDeContas/Cliente.java" />
         <option value="$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaCorrente.java" />
       </list>
     </option>
@@ -193,7 +187,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552434604789" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552435079793" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
@@ -267,7 +261,7 @@
       <workItem from="1551271555479" duration="129000" />
       <workItem from="1552397199739" duration="2859000" />
       <workItem from="1552433265092" duration="94000" />
-      <workItem from="1552433408176" duration="1043000" />
+      <workItem from="1552433408176" duration="1861000" />
     </task>
     <task id="LOCAL-00001" summary="Lista 2">
       <created>1550715504433</created>
@@ -294,7 +288,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32300000" />
+    <option name="totallyTimeSpent" value="33118000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -771,6 +765,27 @@
     <entry file="file://$PROJECT_DIR$/src/lista3/SimuladorDeContas/ContaCorrente.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaPoupanca.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="94" selection-start-line="16" selection-start-column="94" selection-end-line="16" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaEspecial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaInvestimento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="402">
@@ -781,28 +796,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaPoupanca.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaEspecial.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaInvestimento.java">
+    <entry file="file://$PROJECT_DIR$/src/lista3/newSimuladorDeContas/Cliente.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="22" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="22" />
+        <state relative-caret-position="280">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="method#Cliente#0;class#Cliente#0" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaCorrente.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        <state relative-caret-position="100">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
           <folding>
             <element signature="method#ContaCorrente#0;class#ContaCorrente#0" />
             <element signature="method#debitar#0;class#ContaCorrente#0" />
-            <element signature="e#478#601#1" />
-            <element signature="e#607#748#1" />
+            <element signature="e#524#647#1" />
+            <element signature="e#653#794#1" />
             <element signature="method#creditar#0;class#ContaCorrente#0" />
           </folding>
         </state>
