@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="faa844ab-16be-4b0c-bd4c-71d86cb3ce59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lista4/SimuladorDeContas2/Investimento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lista4/SimuladorDeContas2/ContaInvestimento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lista4/SimuladorDeContas2/ContaInvestimento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lista4/SimuladorDeContas2/ContaPoupanca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lista4/SimuladorDeContas2/ContaPoupanca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lista4/SimuladorDeContas2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lista4/SimuladorDeContas2/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="faa844ab-16be-4b0c-bd4c-71d86cb3ce59" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,12 +28,12 @@
     <fileColor scope="Android Instrumented Tests" color="bbff7e" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lista4/SimuladorDeContas2/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/lista4/SimuladorDeContas3/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="40">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -50,8 +44,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTTP Request" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -127,8 +121,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,32 +147,20 @@
             </path>
             <path>
               <item name="faculdade-poo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="faculdade-poo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lista4" type="462c0819:PsiDirectoryNode" />
-              <item name="EstudoDeCaso" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="faculdade-poo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="faculdade-poo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lista4" type="462c0819:PsiDirectoryNode" />
-              <item name="SimuladorDeContas2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="faculdade-poo" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553088428572" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553088438495" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -295,6 +275,7 @@
       <workItem from="1553002240187" duration="791000" />
       <workItem from="1553082287103" duration="220000" />
       <workItem from="1553082526138" duration="5152000" />
+      <workItem from="1553088229993" duration="488000" />
     </task>
     <task id="LOCAL-00001" summary="Lista 2">
       <created>1550715504433</created>
@@ -384,7 +365,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48594000" />
+    <option name="totallyTimeSpent" value="49082000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -398,7 +379,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1080" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4994698" visible="true" weight="0.106723584" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4994698" visible="true" weight="0.10779082" />
       <window_info id="Structure" order="1" sideWeight="0.50053024" side_tool="true" weight="0.19316968" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -407,17 +388,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32960325" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.41932058" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41887593" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32979852" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32873806" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32767764" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3923648" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" weight="0.3301486" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32979852" />
       <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.32944915" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -520,19 +501,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="UPDATE: READMEs." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lista2/SimuladorPessoas/Pobre.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="88" selection-start-line="8" selection-start-column="88" selection-end-line="8" selection-end-column="88" />
-          <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#224#225#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lista2/SimuladorPessoas/Miseravel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -748,9 +716,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/aula-collections/Main.java" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
-    <entry file="file://$PROJECT_DIR$/src/aula-collections/test.http">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aula-collections/test.http" />
     <entry file="file://$PROJECT_DIR$/src/lista3/ClassesAbstratas/Gerente.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -908,8 +874,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lista4/SimuladorDeContas2/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="260">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lista4/SimuladorDeContas3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
