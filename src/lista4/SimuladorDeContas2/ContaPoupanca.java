@@ -1,6 +1,6 @@
 package lista4.SimuladorDeContas2;
 
-public class ContaPoupanca extends ContaCorrente {
+public class ContaPoupanca extends ContaCorrente implements Investimento {
     private Double saldoMinino;
 
     public ContaPoupanca(int numero, Double saldo, Cliente cliente, Double saldoMinino) {
@@ -20,5 +20,9 @@ public class ContaPoupanca extends ContaCorrente {
 
     public Double getSaldoMinino() {
         return saldoMinino;
+    }
+    @Override
+    public void reajustarSaldo() {
+        setSaldo(getSaldo() * 1.05);
     }
 }

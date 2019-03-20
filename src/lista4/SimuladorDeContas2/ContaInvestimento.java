@@ -4,7 +4,7 @@ package lista4.SimuladorDeContas2;
 
 import java.time.LocalDate;
 
-public class ContaInvestimento extends ContaCorrente {
+public class ContaInvestimento extends ContaCorrente implements Investimento{
         private int diaInvestimento;
         private int periodo;
 
@@ -24,4 +24,8 @@ public class ContaInvestimento extends ContaCorrente {
         }
     }
 
+    @Override
+    public void reajustarSaldo() {
+        setSaldo(getSaldo() * 1.1);
+    }
 }
