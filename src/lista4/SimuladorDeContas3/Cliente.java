@@ -2,6 +2,7 @@ package lista4.SimuladorDeContas3;
 
 import java.awt.*;
 import java.util.ArrayList;
+import java.util.stream.Stream;
 
 public class Cliente {
     private String nome;
@@ -31,16 +32,15 @@ public class Cliente {
     }
 
     public void addConta(ContaCorrente conta){
-        contas.add(conta);
+        this.contas.add(conta);
     }
 
     public void imprimeContas(){
         if (this.contas.size() == 0){
             System.out.println(new ArrayList<>());
         } else {
-            for (int i=0; i<contas.size(); i++){
-                System.out.println(getNome() + ": " + contas.get(i));
-            }
+            contas.stream()
+                    .forEach(conta -> System.out.println(getNome() + ": " + conta));
         }
     }
 
