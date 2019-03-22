@@ -1,9 +1,12 @@
 package lista4.Cofrinho;
 
 import java.util.ArrayList;
+import java.util.List;
+
+import static java.util.Comparator.comparing;
 
 public class Cofrinho {
-    private ArrayList moedas;
+    private List<Moeda> moedas;
 
     public Cofrinho() {
         this.moedas = new ArrayList();
@@ -13,12 +16,15 @@ public class Cofrinho {
         this.moedas.add(moeda);
     }
 
-
     public Double calculaTotal() {
+        /*
         Double soma = 0.0;
-        for (Object moeda : this.moedas) soma += ((Moeda) moeda).getValor();
-
+        for (Object moeda : this.moedas) {
+            soma += ((Moeda) moeda).getValor();
+        }
         return soma;
+        */
+        return moedas.stream().mapToDouble(Moeda::getValor).sum();
     }
 
     public int quantasMoedas(){
@@ -26,14 +32,16 @@ public class Cofrinho {
     }
 
     public String verificarMaior(){
+        /*
         Moeda maior = new Moeda(0.0,"Teste");
-        for (Object m : moedas) {
-            Moeda moeda = (Moeda) m;
-            if (moeda.getValor() > maior.getValor()){
-                maior = moeda;
+        for (Moeda m : moedas) {
+            if (m.getValor() > maior.getValor()) {
+                maior = m;
             }
         }
         return maior.getNome();
+        */
+        return moedas.stream().max(comparing(Moeda::getValor)).get().getNome();
     }
 
 }
