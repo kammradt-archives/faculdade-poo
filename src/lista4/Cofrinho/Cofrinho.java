@@ -17,13 +17,6 @@ public class Cofrinho {
     }
 
     public Double calculaTotal() {
-        /*
-        Double soma = 0.0;
-        for (Object moeda : this.moedas) {
-            soma += ((Moeda) moeda).getValor();
-        }
-        return soma;
-        */
         return moedas.stream().mapToDouble(Moeda::getValor).sum();
     }
 
@@ -32,15 +25,6 @@ public class Cofrinho {
     }
 
     public String verificarMaior(){
-        /*
-        Moeda maior = new Moeda(0.0,"Teste");
-        for (Moeda m : moedas) {
-            if (m.getValor() > maior.getValor()) {
-                maior = m;
-            }
-        }
-        return maior.getNome();
-        */
         return moedas.stream().max(comparing(Moeda::getValor)).get().getNome();
     }
 

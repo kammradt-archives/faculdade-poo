@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="faa844ab-16be-4b0c-bd4c-71d86cb3ce59" name="Default Changelist" comment="UPDATE: READMEs.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lista4/Cofrinho/Cofrinho.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lista4/Cofrinho/Cofrinho.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lista4/Cofrinho/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+            <state relative-caret-position="400">
+              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -44,12 +43,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lista4/Cofrinho/Cofrinho.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="43" column="15" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
+            <state relative-caret-position="199">
+              <caret line="19" selection-start-line="19" selection-end-line="25" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#584#585#0" expanded="true" />
-                <element signature="e#625#626#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -126,10 +123,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1920" />
-    <option name="width" value="1396" />
-    <option name="height" value="1077" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="-1" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -184,7 +181,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553217505194" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553217995822" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -332,7 +329,8 @@
       <workItem from="1553088229993" duration="823000" />
       <workItem from="1553129063553" duration="6588000" />
       <workItem from="1553167371938" duration="377000" />
-      <workItem from="1553214621602" duration="2884000" />
+      <workItem from="1553214621602" duration="3409000" />
+      <workItem from="1553607367684" duration="1260000" />
     </task>
     <task id="LOCAL-00001" summary="Lista 2">
       <created>1550715504433</created>
@@ -422,7 +420,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59266000" />
+    <option name="totallyTimeSpent" value="61051000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -434,10 +432,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="0" width="1396" height="1077" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="-1" width="1920" height="1080" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4994698" visible="true" weight="0.2748148" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4994698" visible="true" weight="0.20010673" />
       <window_info id="Structure" order="1" sideWeight="0.50053024" side_tool="true" weight="0.19316968" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -446,12 +443,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32873806" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4180851" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4180851" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32979852" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.31276596" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31177095" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3923648" />
@@ -908,20 +905,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lista4/Cofrinho/Cofrinho.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="43" column="15" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
+        <state relative-caret-position="199">
+          <caret line="19" selection-start-line="19" selection-end-line="25" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#584#585#0" expanded="true" />
-            <element signature="e#625#626#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lista4/Cofrinho/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        <state relative-caret-position="400">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>
