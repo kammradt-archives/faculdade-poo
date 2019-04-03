@@ -9,5 +9,6 @@ public class Main {
         tri.correr();
         tri.nadar();
         tri.pedalar();
+
     }
 }
