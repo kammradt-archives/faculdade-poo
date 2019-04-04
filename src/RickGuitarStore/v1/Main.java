@@ -16,13 +16,13 @@ public class Main {
 
         if (result != null) {
             StringBuilder sb = new StringBuilder();
-            sb.append("Result: ").append("\n");
-            sb.append("Builder: ").append(result.getBuilder()).append("\n");
-            sb.append("Model: ").append(result.getModel()).append("\n");
-            sb.append("Type: ").append(result.getType()).append("\n");
-            sb.append("Back Wood: ").append(result.getbWood()).append("\n");
-            sb.append("Top Wood: ").append(result.gettWood()).append("\n");
-            sb.append("Price: ").append(result.getPrice()).append("\n");
+                sb.append("Result: ").append("\n");
+                sb.append("Builder: ").append(result.getBuilder()).append("\n");
+                sb.append("Model: ").append(result.getModel()).append("\n");
+                sb.append("Type: ").append(result.getType()).append("\n");
+                sb.append("Back Wood: ").append(result.getbWood()).append("\n");
+                sb.append("Top Wood: ").append(result.gettWood()).append("\n");
+                sb.append("Price: ").append(result.getPrice()).append("\n");
 
             System.out.println(sb.toString());
         } else {
