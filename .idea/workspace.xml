@@ -1,10 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="faa844ab-16be-4b0c-bd4c-71d86cb3ce59" name="Default Changelist" comment="UPDATE: READMEs.">
+    <list default="true" id="17bb94fa-dd2d-4ad3-b62c-f21a878c728c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RickGuitarStore/v1/Guitar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collections/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lista4/EstudoDeCaso/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lista4/EstudoDeCaso/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/collections/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista1/Bichinho.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista1/Bola.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista1/BombaDeCombustivel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista1/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista1/Quadrado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista1/Televisor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista2/SalariosFuncionarios/Chefe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista2/SalariosFuncionarios/Empregado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista2/SalariosFuncionarios/Estagiario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista2/SimuladorAnimais/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista2/SimuladorAnimais/Cachorro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista2/SimuladorAnimais/Gato.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista2/SimuladorDeContas/ContaCorrente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista2/SimuladorDeContas/ContaEspecial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista2/SimuladorDeContas/ContaInvestimento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista2/SimuladorDeContas/ContaPoupanca.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista2/SimuladorFuncionarios/Assistente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista2/SimuladorFuncionarios/AssistenteAdministrativo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista2/SimuladorFuncionarios/AssistenteTecnico.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista2/SimuladorFuncionarios/Funcionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista2/SimuladorIngressos/CamaroteInferior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista2/SimuladorIngressos/CamaroteSuperior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista2/SimuladorIngressos/Ingresso.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista2/SimuladorIngressos/IngressoNormal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista2/SimuladorIngressos/IngressoVip.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista2/SimuladorPessoas/Miseravel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista2/SimuladorPessoas/PessoaListaDois.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista2/SimuladorPessoas/Pobre.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista2/SimuladorPessoas/Rica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista3/ClassesAbstratas/FuncionarioAbs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista3/ClassesAbstratas/Gerente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista3/ClassesAbstratas/Programador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista3/Operacoes/Divisao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista3/Operacoes/Multiplicacao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista3/Operacoes/OperacaoMatematica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista3/Operacoes/Soma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista3/Operacoes/Subtracao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista3/newSimuladorDeContas/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista3/newSimuladorDeContas/ContaCorrente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista3/newSimuladorDeContas/ContaEspecial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista3/newSimuladorDeContas/ContaInvestimento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista3/newSimuladorDeContas/ContaPoupanca.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista4/Cofrinho/Cofrinho.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista4/Cofrinho/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista4/Cofrinho/Moeda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista4/EstudoDeCaso/Atleta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista4/EstudoDeCaso/Ciclista.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista4/EstudoDeCaso/Corredor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista4/EstudoDeCaso/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista4/EstudoDeCaso/Nadador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista4/EstudoDeCaso/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista4/EstudoDeCaso/TriAtleta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista4/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista4/SimuladorDeContas2/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista4/SimuladorDeContas2/ContaCorrente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista4/SimuladorDeContas2/ContaEspecial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista4/SimuladorDeContas2/ContaInvestimento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista4/SimuladorDeContas2/ContaPoupanca.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista4/SimuladorDeContas2/Investimento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista4/SimuladorDeContas2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista4/SimuladorDeContas3/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista4/SimuladorDeContas3/ContaCorrente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista4/SimuladorDeContas3/ContaEspecial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista4/SimuladorDeContas3/ContaInvestimento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista4/SimuladorDeContas3/ContaPoupanca.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista4/SimuladorDeContas3/Investimento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poo-aulas/lista4/SimuladorDeContas3/Main.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,79 +92,34 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
-  <component name="FileColors">
-    <fileColor scope="Local Unit Tests" color="bbff7e" />
-    <fileColor scope="Android Instrumented Tests" color="bbff7e" />
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lista4/EstudoDeCaso/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/RickGuitarStore/v1/Guitar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="40">
-                <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="87" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RickGuitarStore/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="6" lean-forward="true" selection-end-line="6" />
-              </first_editor>
-              <second_editor />
+            <state relative-caret-position="147">
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+              <folding>
+                <element signature="method#Guitar#0;class#Guitar#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/RickGuitarStore/v1/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/RickGuitarStore/v1/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTTP Request" />
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -93,69 +127,18 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lista2/SimuladorDeContas/ContaEspecial.java" />
-        <option value="$PROJECT_DIR$/src/lista2/SimuladorDeContas/ContaCorrente.java" />
-        <option value="$PROJECT_DIR$/src/lista2/SimuladorIngressos/Ingresso.java" />
-        <option value="$PROJECT_DIR$/src/lista3/SimuladorDeContas/ContaCorrente.java" />
-        <option value="$PROJECT_DIR$/src/lista3/newSimuladorDeContas/Cliente.java" />
-        <option value="$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaInvestimento.java" />
-        <option value="$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaPoupanca.java" />
-        <option value="$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaEspecial.java" />
-        <option value="$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaCorrente.java" />
-        <option value="$PROJECT_DIR$/src/lista3/ClassesAbstratas/FuncionarioAbs.java" />
-        <option value="$PROJECT_DIR$/src/lista3/ClassesAbstratas/Gerente.java" />
-        <option value="$PROJECT_DIR$/src/lista3/ClassesAbstratas/Programador.java" />
-        <option value="$PROJECT_DIR$/src/lista3/Operacoes/SOma.java" />
-        <option value="$PROJECT_DIR$/src/lista3/Operacoes/OperacaoMatematica.java" />
-        <option value="$PROJECT_DIR$/src/lista3/Operacoes/Soma.java" />
-        <option value="$PROJECT_DIR$/src/lista3/Operacoes/Subtracao.java" />
-        <option value="$PROJECT_DIR$/src/lista3/Operacoes/Multiplicacao.java" />
-        <option value="$PROJECT_DIR$/src/lista3/Operacoes/Divisao.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/lista1/README.md" />
-        <option value="$PROJECT_DIR$/src/lista3/README.md" />
-        <option value="$PROJECT_DIR$/src/lista2/README.md" />
-        <option value="$PROJECT_DIR$/src/aula-collections/Main.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
-        <option value="$PROJECT_DIR$/src/aula-collections/test.http" />
-        <option value="$PROJECT_DIR$/src/collections/Bichinho.java" />
-        <option value="$PROJECT_DIR$/src/lista4/EstudoDeCaso/Ciclista.java" />
-        <option value="$PROJECT_DIR$/src/lista4/EstudoDeCaso/Corredor.java" />
-        <option value="$PROJECT_DIR$/src/lista4/EstudoDeCaso/Nadador.java" />
-        <option value="$PROJECT_DIR$/src/lista4/EstudoDeCaso/Atleta.java" />
-        <option value="$PROJECT_DIR$/src/lista4/EstudoDeCaso/Pessoa.java" />
-        <option value="$PROJECT_DIR$/src/lista4/EstudoDeCaso/TriAtleta.java" />
-        <option value="$PROJECT_DIR$/src/lista4/newSimuladorDeContas/ContaInvestimento.java" />
-        <option value="$PROJECT_DIR$/src/lista4/SimuladorDeContas2/Investimento.java" />
-        <option value="$PROJECT_DIR$/src/lista4/SimuladorDeContas2/ContaInvestimento.java" />
-        <option value="$PROJECT_DIR$/src/lista4/SimuladorDeContas2/ContaPoupanca.java" />
-        <option value="$PROJECT_DIR$/src/lista4/SimuladorDeContas2/Main.java" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/lista4/SimuladorDeContas3/ContaEspecial.java" />
-        <option value="$PROJECT_DIR$/src/lista4/SimuladorDeContas3/ContaInvestimento.java" />
-        <option value="$PROJECT_DIR$/src/lista4/SimuladorDeContas3/ContaPoupanca.java" />
-        <option value="$PROJECT_DIR$/src/lista4/SimuladorDeContas3/Main.java" />
-        <option value="$PROJECT_DIR$/src/lista4/SimuladorDeContas3/ContaCorrente.java" />
-        <option value="$PROJECT_DIR$/src/lista4/SimuladorDeContas3/Cliente.java" />
-        <option value="$PROJECT_DIR$/src/lista4/Cofrinho/Moeda.java" />
-        <option value="$PROJECT_DIR$/src/lista4/Cofrinho/Main.java" />
-        <option value="$PROJECT_DIR$/src/lista4/README.md" />
-        <option value="$PROJECT_DIR$/src/lista4/Cofrinho/Cofrinho.java" />
-        <option value="$PROJECT_DIR$/src/lista4/EstudoDeCaso/Main.java" />
-        <option value="$PROJECT_DIR$/src/collections/Main.java" />
-        <option value="$PROJECT_DIR$/src/RickGuitarStore/README.md" />
+        <option value="$PROJECT_DIR$/src/RickGuitarStore/v1/Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="-1" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="x" value="1920" />
+    <option name="y" value="30" />
+    <option name="width" value="960" />
+    <option name="height" value="1050" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
-      <hideEmptyPackages ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -180,7 +163,10 @@
             </path>
             <path>
               <item name="faculdade-poo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="faculdade-poo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="RickGuitarStore" type="462c0819:PsiDirectoryNode" />
+              <item name="v1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -190,29 +176,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554296597418" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="lista4.Cofrinho" />
-      <recent name="lista4.EstudoDeCaso" />
-      <recent name="collections" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/lista4/SimuladorDeContas3" />
-      <recent name="$PROJECT_DIR$/src/lista4" />
-      <recent name="$PROJECT_DIR$/src/lista3/newSimuladorDeContas" />
-      <recent name="$PROJECT_DIR$/src/lista3" />
-    </key>
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -226,75 +195,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.Main" />
-      <module name="Poo-aulas" />
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RickGuitarStore.v1.Main" />
+      <module name="faculdade-poo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.*" />
+          <option name="PATTERN" value="RickGuitarStore.v1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lista4.SimuladorDeContas2.Main" />
-      <module name="Poo-aulas" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lista4.SimuladorDeContas2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lista4.SimuladorDeContas3.Main" />
-      <module name="Poo-aulas" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lista4.SimuladorDeContas3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lista4.Cofrinho.Main" />
-      <module name="Poo-aulas" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lista4.Cofrinho.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Poo-aulas" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -304,751 +220,73 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="faa844ab-16be-4b0c-bd4c-71d86cb3ce59" name="Default Changelist" comment="" />
-      <created>1549985015007</created>
+      <changelist id="17bb94fa-dd2d-4ad3-b62c-f21a878c728c" name="Default Changelist" comment="" />
+      <created>1554341496209</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1549985015007</updated>
-      <workItem from="1549985019705" duration="162000" />
-      <workItem from="1550054170110" duration="5570000" />
-      <workItem from="1550068777713" duration="2295000" />
-      <workItem from="1550099819662" duration="1659000" />
-      <workItem from="1550191474417" duration="203000" />
-      <workItem from="1550535587204" duration="56000" />
-      <workItem from="1550535768527" duration="59000" />
-      <workItem from="1550535841116" duration="216000" />
-      <workItem from="1550536110447" duration="236000" />
-      <workItem from="1550536608075" duration="27000" />
-      <workItem from="1550583077627" duration="3380000" />
-      <workItem from="1550662884815" duration="2659000" />
-      <workItem from="1550703514493" duration="11381000" />
-      <workItem from="1550938787379" duration="50000" />
-      <workItem from="1551187790884" duration="78000" />
-      <workItem from="1551190735974" duration="19000" />
-      <workItem from="1551267898226" duration="68000" />
-      <workItem from="1551271450596" duration="57000" />
-      <workItem from="1551271555479" duration="129000" />
-      <workItem from="1552397199739" duration="2859000" />
-      <workItem from="1552433265092" duration="94000" />
-      <workItem from="1552433408176" duration="5629000" />
-      <workItem from="1552440049797" duration="4228000" />
-      <workItem from="1552444498426" duration="1283000" />
-      <workItem from="1552479512772" duration="34000" />
-      <workItem from="1553002240187" duration="791000" />
-      <workItem from="1553082287103" duration="220000" />
-      <workItem from="1553082526138" duration="5152000" />
-      <workItem from="1553088229993" duration="823000" />
-      <workItem from="1553129063553" duration="6588000" />
-      <workItem from="1553167371938" duration="377000" />
-      <workItem from="1553214621602" duration="3409000" />
-      <workItem from="1553607367684" duration="1260000" />
-      <workItem from="1553609248051" duration="401000" />
-      <workItem from="1554170924272" duration="348000" />
-      <workItem from="1554234348433" duration="56000" />
-      <workItem from="1554291603347" duration="185000" />
-      <workItem from="1554296044115" duration="442000" />
+      <updated>1554341496209</updated>
+      <workItem from="1554341499215" duration="1183000" />
     </task>
-    <task id="LOCAL-00001" summary="Lista 2">
-      <created>1550715504433</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1550715504433</updated>
-    </task>
-    <task id="LOCAL-00002" summary="UPDATE: Boas práticas de herança.">
-      <created>1552398220689</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1552398220689</updated>
-    </task>
-    <task id="LOCAL-00003" summary="UPDATE: Boas práticas de herança.">
-      <created>1552398306716</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1552398306716</updated>
-    </task>
-    <task id="LOCAL-00004" summary="NEW: Classes from exercise three finished.">
-      <created>1552439765990</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1552439765990</updated>
-    </task>
-    <task id="LOCAL-00005" summary="UPDATE: Main.java done.">
-      <created>1552439962581</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1552439962581</updated>
-    </task>
-    <task id="LOCAL-00006" summary="UPDATE: Main.java done.">
-      <created>1552439999266</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1552439999266</updated>
-    </task>
-    <task id="LOCAL-00007" summary="NEW: README part 2 done.">
-      <created>1552442728382</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1552442728382</updated>
-    </task>
-    <task id="LOCAL-00008" summary="UPDATE: READMEs.">
-      <created>1552444543710</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1552444543710</updated>
-    </task>
-    <task id="LOCAL-00009" summary="UPDATE: READMEs.">
-      <created>1552444629996</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1552444629996</updated>
-    </task>
-    <task id="LOCAL-00010" summary="UPDATE: READMEs.">
-      <created>1552444635962</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1552444635962</updated>
-    </task>
-    <task id="LOCAL-00011" summary="UPDATE: READMEs.">
-      <created>1552444714419</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1552444714419</updated>
-    </task>
-    <task id="LOCAL-00012" summary="UPDATE: READMEs.">
-      <created>1552445780990</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1552445780990</updated>
-    </task>
-    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62483000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+    <option name="totallyTimeSpent" value="1183000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1920" height="1080" extended-state="6" />
+    <frame x="1920" y="30" width="1920" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4994698" visible="true" weight="0.21077909" />
-      <window_info id="Structure" order="1" sideWeight="0.50053024" side_tool="true" weight="0.19316968" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09551761" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" weight="0.32929516" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32873806" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4180851" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32929516" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32979852" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31177095" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3923648" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32979852" />
-      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.32944915" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Codota" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Database" order="9" weight="0.32977587" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4994698" visible="true" weight="0.20437567" />
-      <window_info id="Structure" order="1" sideWeight="0.50053024" side_tool="true" weight="0.19316968" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32873806" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4180851" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32979852" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31177095" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3923648" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32979852" />
-      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.32944915" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Codota" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Database" order="9" weight="0.32977587" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Branch">
-          <value>
-            <list />
-          </value>
-        </entry>
-        <entry key="User">
-          <value>
-            <list />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$/.." />
-    </ignored-roots>
-    <MESSAGE value="Lista 2" />
-    <MESSAGE value="UPDATE: Boas práticas de herança." />
-    <MESSAGE value="NEW: Classes from exercise three finished." />
-    <MESSAGE value="UPDATE: Main.java done." />
-    <MESSAGE value="NEW: README part 2 done." />
-    <MESSAGE value="UPDATE: READMEs." />
-    <option name="LAST_COMMIT_MESSAGE" value="UPDATE: READMEs." />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lista3/ClassesAbstratas/Funcionario.java" />
-    <entry file="file://$PROJECT_DIR$/src/lista3/newSimuladorDeContas/ContaCorrente.java">
+    <entry file="file://$PROJECT_DIR$/src/RickGuitarStore/v1/Guitar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="39" column="53" selection-start-line="39" selection-start-column="53" selection-end-line="39" selection-end-column="53" />
+        <state relative-caret-position="147">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
           <folding>
-            <element signature="method#debitar#0;class#ContaCorrente#0" />
-            <element signature="method#creditar#0;class#ContaCorrente#0" />
+            <element signature="method#Guitar#0;class#Guitar#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista3/ClassesAbstratas/Programador.java">
+    <entry file="file://$PROJECT_DIR$/src/RickGuitarStore/v1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        <state relative-caret-position="316">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista3/Operacoes/SOma.java" />
-    <entry file="file://$PROJECT_DIR$/src/lista3/Operacoes/Soma.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" lean-forward="true" selection-end-line="9" />
-          <folding>
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#161#162#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista3/Operacoes/Subtracao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="18" selection-end-line="9" />
-          <folding>
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista3/Operacoes/Divisao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista3/Operacoes/Multiplicacao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-          <folding>
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista3/Operacoes/OperacaoMatematica.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="55" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista1/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="234">
-            <caret line="21" column="5" lean-forward="true" selection-end-line="31" selection-end-column="109" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista2/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="414">
-            <caret line="40" column="730" selection-start-line="40" selection-start-column="730" selection-end-line="40" selection-end-column="730" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista3/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="454">
-            <caret line="24" column="731" selection-start-line="24" selection-start-column="731" selection-end-line="24" selection-end-column="731" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/aula-collections/Main.java" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
-    <entry file="file://$PROJECT_DIR$/src/aula-collections/test.http" />
-    <entry file="file://$PROJECT_DIR$/src/lista3/ClassesAbstratas/Gerente.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding>
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#164#165#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista3/ClassesAbstratas/FuncionarioAbs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-          <folding>
-            <element signature="method#FuncionarioAbs#0;class#FuncionarioAbs#0" />
-            <element signature="method#toString#0;class#FuncionarioAbs#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista4/SimuladorDeContas2/ContaEspecial.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista4/SimuladorDeContas2/Cliente.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista4/SimuladorDeContas2/ContaCorrente.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="116" column="47" selection-start-line="116" selection-start-column="47" selection-end-line="116" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista4/SimuladorDeContas2/ContaInvestimento.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="26" selection-start-line="26" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="e#877#878#0" expanded="true" />
-            <element signature="e#903#904#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista4/SimuladorDeContas2/ContaPoupanca.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
-          <folding>
-            <element signature="e#820#821#0" expanded="true" />
-            <element signature="e#863#864#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista4/SimuladorDeContas2/Investimento.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista4/SimuladorDeContas2/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista4/SimuladorDeContas3/Investimento.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista4/SimuladorDeContas3/ContaInvestimento.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15">
-          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista4/SimuladorDeContas3/ContaEspecial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista4/SimuladorDeContas3/ContaCorrente.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista4/SimuladorDeContas3/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="49" lean-forward="true" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.base/java/util/function/Consumer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista4/SimuladorDeContas3/Cliente.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="44" column="5" lean-forward="true" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.base/java/util/function/ToDoubleFunction.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista4/SimuladorDeContas3/ContaPoupanca.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista4/Cofrinho/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista4/Cofrinho/Cofrinho.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
-            <element signature="e#634#635#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista4/Cofrinho/Moeda.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista4/EstudoDeCaso/Corredor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista4/EstudoDeCaso/Nadador.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista2/SimuladorDeContas/ContaEspecial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista4/EstudoDeCaso/Pessoa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista4/EstudoDeCaso/TriAtleta.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding>
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#455#456#0" expanded="true" />
-            <element signature="e#496#497#0" expanded="true" />
-            <element signature="e#580#581#0" expanded="true" />
-            <element signature="e#622#623#0" expanded="true" />
-            <element signature="e#707#708#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista4/EstudoDeCaso/Ciclista.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="24" selection-start-line="3" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista4/EstudoDeCaso/Atleta.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista2/SimuladorDeContas/ContaCorrente.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista4/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="320">
-            <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lista4/EstudoDeCaso/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="40">
-            <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="87" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RickGuitarStore/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="6" lean-forward="true" selection-end-line="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RickGuitarStore/v1/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>11</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>Poo-aulas</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
