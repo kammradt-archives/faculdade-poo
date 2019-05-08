@@ -20,7 +20,7 @@ public class GuitarSpec extends InstrumentSpec {
         this.numStrings = numStrings;
     }
 
-    // Isso aqui tá cagado
+    // Receber GuitarSpec ao invés de InstrumentSpec para limitar opções
     @Override
     public boolean matches(InstrumentSpec otherSpec) {
         if (genericSpecsAreDifferent(otherSpec))

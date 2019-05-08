@@ -37,6 +37,7 @@ public class Inventory {
         return null;
     }
 
+    // Alguma maneira de criar apenas um search para 'n' instrumentos
     public List<Guitar> search(GuitarSpec wantedSpec){
         List<Guitar> foundGuitars = new LinkedList();
         for (Instrument instrument : this.inventory) {

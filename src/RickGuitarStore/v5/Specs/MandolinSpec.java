@@ -21,7 +21,7 @@ public class MandolinSpec extends InstrumentSpec{
         this.style = style;
     }
 
-    // Isso aqui tá cagado
+    // Receber MandolinSpec ao invés de InstrumentSpec para limitar opções
     @Override
     public boolean matches (InstrumentSpec otherSpec) {
         if (genericSpecsAreDifferent(otherSpec))
