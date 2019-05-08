@@ -23,7 +23,7 @@ public class MandolinSpec extends InstrumentSpec{
 
     // Isso aqui tá cagado
     @Override
-    public boolean matches (InstrumentSpec otherSpec){
+    public boolean matches (InstrumentSpec otherSpec) {
         if (genericSpecsAreDifferent(otherSpec))
             return false;
 

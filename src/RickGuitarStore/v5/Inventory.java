@@ -17,17 +17,18 @@ public class Inventory {
         this.inventory = new LinkedList<>();
     }
 
-    public void addInstrument(String serialNumber, double price, InstrumentSpec spec){
+    public void addInstrument(String serialNumber, double price, InstrumentSpec spec) {
         Instrument instrument = null;
-        if (spec instanceof GuitarSpec){
+        if (spec instanceof GuitarSpec) {
             instrument = new Guitar(serialNumber, price, (GuitarSpec)spec);
-        } else if (spec instanceof MandolinSpec){
+        } else if (spec instanceof MandolinSpec) {
             instrument = new Mandolin(serialNumber, price, (MandolinSpec)spec);
         }
+
         inventory.add(instrument);
     }
 
-    public Instrument getInstrument(String serialNumber){
+    public Instrument getInstrument(String serialNumber) {
         for (Instrument instrument : this.inventory) {
             if (instrument.getSerialNumber().equals(serialNumber)) {
                 return instrument;

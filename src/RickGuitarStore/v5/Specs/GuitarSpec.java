@@ -23,16 +23,16 @@ public class GuitarSpec extends InstrumentSpec {
     // Isso aqui tá cagado
     @Override
     public boolean matches(InstrumentSpec otherSpec) {
-        if (genericSpecsAreDifferent(otherSpec)){
+        if (genericSpecsAreDifferent(otherSpec))
             return false;
-        }
-        if (isOtherInstrumentSpec(otherSpec)) {
+
+        if (isOtherInstrumentSpec(otherSpec))
             return false;
-        }
+
         GuitarSpec spec = (GuitarSpec)otherSpec;
-        if (numStringsIsDifferent(spec)) {
+        if (numStringsIsDifferent(spec))
             return false;
-        }
+
         return true;
     }
 

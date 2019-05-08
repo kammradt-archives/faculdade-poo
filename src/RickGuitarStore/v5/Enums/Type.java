@@ -2,6 +2,7 @@ package RickGuitarStore.v5.Enums;
 
 public enum Type {
     ACOUSTIC, ELECTRIC;
+
     public String toString() {
         switch (this) {
             case ACOUSTIC:
