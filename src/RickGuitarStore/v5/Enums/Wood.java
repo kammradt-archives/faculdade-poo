@@ -1,4 +1,4 @@
-package RickGuitarStore.v5;
+package RickGuitarStore.v5.Enums;
 
 public enum Wood {
     INDIAN_ROSEWOOD, BRAZILIAN_ROSEWOOD, MAHOGANY, MAPLE, COCOBOLO,
