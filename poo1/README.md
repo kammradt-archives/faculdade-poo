@@ -1,4 +1,4 @@
-# OOP Programming I &amp; II
+# OOP Programming I
 
 - [/](https://github.com/kammradt/faculdade-poo/tree/master/src)
 - [Exercises: part 1](https://github.com/kammradt/faculdade-poo/tree/master/src/lista1)
